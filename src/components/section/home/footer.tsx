@@ -11,8 +11,8 @@ const menuLinks = [
 
 const Footer = () => {
   return (
-    <footer className="flex justify-center my-lg-14 my-8 py-12 px-3 sm:px-6 md:px-12 lg:px-24 ">
-      <div className="container px-6 py-6">
+    <footer className="flex justify-center my-lg-14 mt-8 mb-3 pt-8 pb-4 px-3 sm:px-6 md:px-12 lg:px-24 ">
+      <div className="container px-6">
         <h1 className="text-lg font-bold text-center lg:text-2xl">
           Join 31,000+ other and never miss <br /> out on new tips, tutorials,
           and more.
