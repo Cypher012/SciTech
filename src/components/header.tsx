@@ -31,7 +31,11 @@ const Header = () => {
           <div className="flex-1 md:flex md:items-center md:gap-12">
             <a className="block text-teal-600" href="#">
               <span className="sr-only">Home</span>
-              <img src={logo} alt="logo" className="h-12   object-cover " />
+              <img
+                src={logo}
+                alt="logo"
+                className="h-12 invert-[0.8] object-cover "
+              />
             </a>
           </div>
           <div className="md:flex md:items-center md:gap-12">
