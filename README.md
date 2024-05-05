@@ -1,4 +1,4 @@
-## vercel
+## Vercel
 https://sci-tech.vercel.app/
 
 # React + TypeScript + Vite
