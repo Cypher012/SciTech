@@ -34,8 +34,8 @@ const Hero = () => {
               <div className="relative  overflow-hidden rounded-lg order-last  lg:h-full"></div>
 
               <div className="lg:py-24">
-                <h2 className="text-5xl font-bold sm:text-4xl">
-                  Welcome to the John SciTech!
+                <h2 className="text-6xl font-bold">
+                  Welcome to the <br /> John SciTech!
                 </h2>
 
                 <p className="mt-4 text-gray-300 text-base sm:text-[17.5px]">
