@@ -35,7 +35,7 @@ const Hero = () => {
 
               <div className="lg:py-24">
                 <h2 className="text-6xl font-bold">
-                  Welcome to the <br /> John SciTech!
+                  Welcome to John SciTech!
                 </h2>
 
                 <p className="mt-4 text-gray-300 text-base sm:text-[17.5px]">
